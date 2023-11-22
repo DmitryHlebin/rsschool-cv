@@ -5,11 +5,11 @@
 2. Contacts:
 
 
-     * Location: Klaipeda, Lithuania 
-     * Phone: +370 61071706 (Viber)
-     * Telegram: dmitryhlebin92
-     * Email: 3708576@gmail.com
-     * GitHub: DmitryHlebin
+   * Location: Klaipeda, Lithuania 
+   * Phone: +370 61071706 (Viber)
+   * Telegram: dmitryhlebin92
+   * Email: 3708576@gmail.com
+   * GitHub: DmitryHlebin
 
 ---
 
@@ -24,11 +24,11 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 4. Skills
 
 
-    * HTML
-    * CSS/SASS
-    * JavaScript (Basic)
-    * Git
-    * Photoshop
+  * HTML
+  * CSS/SASS
+  * JavaScript (Basic)
+  * Git
+  * Photoshop
 ---
 5. Code Example
 
